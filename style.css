@@ -1,0 +1,51 @@
+*{
+   
+}
+.indie-flower-regular {
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    color:black;
+  }
+   /* <uniquifier>: Use a unique and descriptive class name */
+   /* <weight>: Use a value from 400 to 700 */
+  
+  .caveat {
+    font-family: "Caveat", cursive;
+     font-optical-sizing: auto; 
+    font-weight: 1000;
+    font-style: normal;
+    
+  }
+  body{
+  background-image: url("background -image.jpg") ;
+  background-size: cover;
+  height:900px;
+  background-repeat: no-repeat;
+  }  
+h1{
+  font-size: 100px;
+  text-align: center;
+  color:yellow;
+  margin-top: 0%;
+   
+}
+.animal{
+  margin-left: 110px;
+  margin-right: 50px;
+  /* border-radius:50%; */
+  /* float:left;  */
+  display: flex;
+  
+
+  
+  
+}
+p{
+  margin-top: 8px;
+  padding-left: 40px;
+  height:3px;
+  
+  
+}
